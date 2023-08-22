@@ -1,0 +1,8 @@
+.DS_Store
+
+.vscode/
+views/
+dist/
+__pycache__/
+.idea/
+assets/
